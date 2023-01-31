@@ -1,4 +1,4 @@
-My first readme
+My first readme.
 Ever since i created my first readme, i created a new directory called 0x01-git.
 In this directory, i created 3 new directories : bash, js and c 
 In the c directory, i created a c_is_fun.c file
